@@ -202,3 +202,20 @@
         curric:taughtInNation    <http://www.bbc.co.uk/things/9ba4d1e5-7cc7-48c0-9793-ad198403c54c#id> , <http://www.bbc.co.uk/things/00eb010f-568a-4b89-bbfe-799d5b812bed#id> , <http://www.bbc.co.uk/things/06dbdeed-0f5e-41f7-b2ef-0f3e3039a72f#id> ;
         curric:upperAgeBoundary  14 ;
         owl:sameAs               <http://www.bbc.co.uk/education/levels/z4kw2hv#level> .
+
+
+<http://www.bbc.co.uk/things/1CCBB1F3-BC81-4D40-8592-7FFAB9778A73#id>
+        a                        curric:Phase ;
+        rdfs:label               "16 Plus"@en-gb ;
+        curric:lowerAgeBoundary  16 ;
+        owl:sameAs               <http://www.bbc.co.uk/education/levels/zcvtpv4#level> .
+
+<http://www.bbc.co.uk/things/64b46dff-9c22-412a-a7aa-1d29446c4845#id>
+        a                        curric:KeyStage ;
+        rdfs:label               "Functional Skills"@en-gb ;
+        dc:description           "Functional Skills are qualifications that have been developed by the UK Government as part of an initiative to improve the country's literacy, numeracy and ICT skills. They are replacing Key Skills Level 1 and 2 qualifications from September 2012; in the short-term Entry Level Key Skills will remain as there is no current replacement – this is still in review."@en-gb ;
+        curric:lowerAgeBoundary  16 ;
+        curric:subLevelOf        <http://www.bbc.co.uk/things/1CCBB1F3-BC81-4D40-8592-7FFAB9778A73#id> ;
+        curric:taughtInNation    <http://www.bbc.co.uk/things/06dbdeed-0f5e-41f7-b2ef-0f3e3039a72f#id> ;
+        owl:sameAs               <http://www.bbc.co.uk/education/levels/z9bpsbk#level> .
+
