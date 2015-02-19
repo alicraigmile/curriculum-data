@@ -2704,3 +2704,30 @@
         curric:taughtAtLevel  <http://www.bbc.co.uk/things/5d1d34b6-253b-444a-9d4a-f6fc2153c37e#id> ;
         curric:taughtInField  <http://www.bbc.co.uk/things/d61fd39e-a4d6-4494-9b01-606c7fcd6b71#id> ;
         owl:sameAs            <http://www.bbc.co.uk/education/subjects/zb77hyc#programme-of-study> .
+
+<http://www.bbc.co.uk/things/e2655023-52f5-461e-a2a0-f722d554437f#id>
+        a                     curric:ProgrammeOfStudy ;
+        rdfs:label            "Functional Skills English"@en-gb ;
+        <http://www.bbc.co.uk/ontologies/applicationlogic-kl/depictionPID>
+                "p017dmql" ;
+        curric:taughtAtLevel  <http://www.bbc.co.uk/things/64b46dff-9c22-412a-a7aa-1d29446c4845#id> ;
+        curric:taughtInField  <http://www.bbc.co.uk/things/bb440724-49e2-414e-954c-109532bc8ff6#id> ;
+        owl:sameAs            <http://www.bbc.co.uk/education/subjects/zpm8wmn#programme-of-study> .
+
+<http://www.bbc.co.uk/things/57193df5-a626-4904-b9fe-f34cf297e337#id>
+        a                     curric:ProgrammeOfStudy ;
+        rdfs:label            "Functional Skills Maths"@en-gb ;
+        <http://www.bbc.co.uk/ontologies/applicationlogic-kl/depictionPID>
+                "p017dn1n" ;
+        curric:taughtAtLevel  <http://www.bbc.co.uk/things/64b46dff-9c22-412a-a7aa-1d29446c4845#id> ;
+        curric:taughtInField  <http://www.bbc.co.uk/things/0fbda866-63f8-4c11-9fa9-46c6c39ea4d0#id> ;
+        owl:sameAs            <http://www.bbc.co.uk/education/subjects/z2dgcdm#programme-of-study> .
+
+<http://www.bbc.co.uk/things/572ccf62-307a-456b-8feb-01581c3c2bfb#id>
+        a                     curric:ProgrammeOfStudy ;
+        rdfs:label            " ICT"@en-gb ;
+        <http://www.bbc.co.uk/ontologies/applicationlogic-kl/depictionPID>
+                "p017dmvy" ;
+        curric:taughtAtLevel  <http://www.bbc.co.uk/things/64b46dff-9c22-412a-a7aa-1d29446c4845#id> ;
+        curric:taughtInField  <http://www.bbc.co.uk/things/812dc56a-fdbf-408e-b07b-789ffead892f#id> ;
+        owl:sameAs            <http://www.bbc.co.uk/education/subjects/zw4y34j#programme-of-study> .
