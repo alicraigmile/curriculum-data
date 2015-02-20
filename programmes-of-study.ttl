@@ -2725,7 +2725,7 @@
 
 <http://www.bbc.co.uk/things/572ccf62-307a-456b-8feb-01581c3c2bfb#id>
         a                     curric:ProgrammeOfStudy ;
-        rdfs:label            " ICT"@en-gb ;
+        rdfs:label            "Functional Skills ICT"@en-gb ;
         <http://www.bbc.co.uk/ontologies/applicationlogic-kl/depictionPID>
                 "p017dmvy" ;
         curric:taughtAtLevel  <http://www.bbc.co.uk/things/64b46dff-9c22-412a-a7aa-1d29446c4845#id> ;
