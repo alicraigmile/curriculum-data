@@ -1,0 +1,112 @@
+{
+    "about": {
+        "description": "A JSON representation of the Welsh Baccalaureate qualification (English and Welsh versions).",
+        "licence": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+        "author": "Ali Craigmile <ali@craigmile.com>",
+    },
+    "qualifications": [
+        {
+            "title": "Bagloriaeth Cymru",
+            "abbreviation": "CBC",
+            "language": "cy",
+            "taughtIn": "Wales",
+            "awardBody": "CBAC",
+            "furtherReading": "http://www.welshbaccalaureate.org.uk/cy/Am-y-CBC",
+            "pathways": [
+                {
+                    "title": "Cenedlaethol / Sylfaen",
+                    "keystage": "CYfnod Allweddol 4",
+                    "minAge": "14",
+                    "maxAge": "16"
+                },
+                {
+                    "title": "Sylfaen",
+                    "keystage": "Ôl 16",
+                    "minAge": "17"
+                },
+                {
+                    "title": "Cenedlaethol",
+                    "keystage": "Ôl 16",
+                    "minAge": "17"
+                },
+                {
+                    "title": "Uwch",
+                    "keystage": "Ôl 16",
+                    "minAge": "14"
+                }
+            ],
+            "levels": [
+                {
+                    "title": "Sylfaen",
+                    "aka": "Lefel 1",
+                    "award": "Diploma Sylfaen",
+                    "furtherReading": "http://www.welshbaccalaureate.org.uk/cy/Am-y-CBC/Beth-yw-Bagloriaeth-Cymru/Mwy-am-y-cymhwyster/CBC-Lefel-Sylfaen"
+                },
+                {
+                    "title": "Canolradd",
+                    "aka": "Lefel 2",
+                    "award": "Diploma Canolradd",
+                    "furtherReading": "http://www.welshbaccalaureate.org.uk/cy/Am-y-CBC/Beth-yw-Bagloriaeth-Cymru/Mwy-am-y-cymhwyster/CBC-Canolradd"
+                },
+                {
+                    "title": "Uwch",
+                    "aka": "Lefel 3",
+                    "award": "Diploma Uwch",
+                    "furtherReading": "http://www.welshbaccalaureate.org.uk/cy/Am-y-CBC/Beth-yw-Bagloriaeth-Cymru/Mwy-am-y-cymhwyster/CBC---Uwch"
+                }
+            ]
+        },
+        {
+            "title": "Welsh Baccalaureate",
+            "abbreviation": "WBQ",
+            "languague": "en",
+            "taughtIn": "Wales",
+            "awardBody": "WJEC",
+            "furtherReading": "http://www.welshbaccalaureate.org.uk/Welsh-Baccalaureate-Home-Page",
+            "pathways": [
+                {
+                    "title": "National/Foundation",
+                    "keystage": "Key Stage 4",
+                    "minAge": "14",
+                    "maxAge": "16"
+                },
+                {
+                    "title": "Foundation",
+                    "keystage": "Post 16",
+                    "minAge": "17"
+                },
+                {
+                    "title": "National",
+                    "keystage": "Post 16",
+                    "minAge": "17"
+                },
+                {
+                    "title": "Advanced",
+                    "keystage": "Post 16",
+                    "minAge": "14"
+                }
+            ],
+            "levels": [
+                {
+                    "title": "Foundation",
+                    "aka": "Level 1",
+                    "award": "Foundation Diploma",
+                    "furtherReading": "http://www.welshbaccalaureate.org.uk/Welsh-Baccalaureate-Home-Page/About-the-Welsh-Bac/More-about-the-qualification/WBQ---Foundation-level"
+                },
+                {
+                    "title": "Intermediate",
+                    "aka": "Level 2",
+                    "award": "Intermediate Diploma",
+                    "furtherReading": "http://www.welshbaccalaureate.org.uk/Welsh-Baccalaureate-Home-Page/About-the-Welsh-Bac/More-about-the-qualification/WBQ---Intermediate"
+                },
+                {
+                    "title": "Advanced",
+                    "aka": "Level 3",
+                    "award": "Advanced Diploma",
+                    "furtherReading": "http://www.welshbaccalaureate.org.uk/Welsh-Baccalaureate-Home-Page/About-the-Welsh-Bac/More-about-the-qualification/WBQ---Advanced",
+                    "notes": "120 UCAS points - the same as an A grade in an A Level subject"
+                }
+            ]
+        }
+    ]
+}
